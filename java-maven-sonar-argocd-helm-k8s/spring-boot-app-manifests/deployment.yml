@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: vinod1188/spring-boot-app:replaceImageTag
+        image: vinod1188/spring-boot-app:6
         ports:
         - containerPort: 8080
